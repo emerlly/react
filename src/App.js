@@ -16,6 +16,7 @@ function App() {
     <StyledIndex>
      <About />
      <Paragrafo />
+     
    
     </StyledIndex>
   );
